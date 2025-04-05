@@ -1,0 +1,11 @@
+*.csv
+
+mankibaat.csv
+speech1.csv
+speech11.csv
+speech111.csv
+translated_sentences.csv
+
+weights/
+runs/
+
