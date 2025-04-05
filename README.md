@@ -47,10 +47,6 @@ Below is a screenshot showing source prediction and its translation in the triba
 ![image](https://github.com/user-attachments/assets/3de59159-b37c-4718-ac3e-2116172d451c)
 
 
----
-
-
-```
 
 
 
