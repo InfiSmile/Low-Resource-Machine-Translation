@@ -1,6 +1,6 @@
 # 🧠 Low-Resource Machine Translation: Hindi ➡️ Tribal Language
 
-Welcome to **Low-Resource-MT**, a lightweight yet effective machine translation project where Hindi is translated into a low-resource **tribal language (Bhili)**.  
+Welcome to **Low-Resource-MT**, a lightweight yet effective machine translation project where Hindi is translated into a low-resource **tribal language**.  
 Despite working with a small dataset of only **10,000 sentence pairs**, our model achieves a **BLEU score of 17**, demonstrating the potential of neural translation even in low-resource settings.
 
 ---
@@ -8,10 +8,10 @@ Despite working with a small dataset of only **10,000 sentence pairs**, our mode
 ## 🚀 Overview
 
 - 🔤 **Source Language**: Hindi  
-- 🗣️ **Target Language**: Bhili (Tribal Language)  
+- 🗣️ **Target Language**: (Tribal Language)  
 - 📊 **BLEU Score**: 17  
 - 📁 **Dataset Size**: 10,000 parallel sentences  
-- 🧠 **Model**: Sequence-to-sequence architecture with attention
+- 🧠 **Model**: Transformer 
 
 ---
 
