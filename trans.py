@@ -18,7 +18,7 @@ def translate_all_sentences(config, model, tokenizer_src, tokenizer_tgt, device)
     # Loop through all source sentences in the CSV
     avg=0
     for index, row in df.iterrows():
-        src_text = row[config['lang_src']]  # Assuming 'src_lang' is 'Hindi' in config
+        src_text = row[config['lang_src']]  
         print(f"Translating sentence {index+1}: {src_text}")
         
         translation = translate_single_sentence(model, src_text, tokenizer_src, tokenizer_tgt, config, device)
